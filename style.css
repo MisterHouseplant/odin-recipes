@@ -1,0 +1,114 @@
+
+* {
+    border: 8px double darkgreen;
+  }
+
+
+body {
+   
+    font-family:  'Times New Roman', Times, serif;
+    background-color: olive;
+    border: 200px solid darkgreen;
+    border-top: 0px;
+    border-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+   
+   
+}
+.container {
+    background-color:  khaki;
+    display: block;
+    
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+.Odin {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    color: darkolivegreen;
+    text-align: center;
+   
+    padding: 8px;
+    background-color: yellowgreen;
+    font-size: 18px;
+    margin-top: 2px;
+   
+    
+}
+
+
+   
+
+  
+
+
+.feast  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border: 10px double darkkhaki;
+
+}
+p  {
+    color: black;
+    text-align: center;
+    padding: 20px;
+  
+
+}
+strong {
+    border: olive;
+
+}
+
+ul {
+    text-align: center;
+    background-color: olive;
+    list-style: none;
+    border: olive;
+
+
+
+}
+
+button {
+    
+    background-color:  khaki;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: 300px;
+    border: 2px double darkgreen;
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+}
+
+li {
+    border: 0px solid olive;
+}
+a {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border: 0px;
+    display: block;
+    
+
+
+    
+
+}
