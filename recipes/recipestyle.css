@@ -1,0 +1,147 @@
+* {
+    border: 8px double darkgreen;
+  }
+
+
+
+  body {
+   
+    font-family:  'Times New Roman', Times, serif;
+    background-color: olive;
+    border: 200px solid darkgreen;
+    border-top: 0px;
+    border-bottom: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+    h1 {
+        color: darkolivegreen;
+        text-align: center;
+       
+        padding: 8px;
+        background-color: yellowgreen;
+        font-size: 18px;
+        margin-top: 2px;
+        margin-bottom: auto;
+    }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 25%;
+   border: 10px double darkkhaki;
+
+}
+p  {
+    color: black;
+   
+    background-color: yellowgreen;
+    padding: 20px;
+    border: none;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+em {
+    border: none;
+}
+
+
+
+.center {
+
+    text-align: center;
+   
+}
+
+strong {
+    border:none;
+}
+h2 {
+    text-align: center ;
+    background-color: khaki;
+    margin-top: auto;
+    margin-bottom: auto;
+
+    
+}
+
+div {
+    background-color: khaki;
+}
+h3 {
+    padding: 10px;
+    border: none;
+    background-color: khaki;
+    
+
+}
+
+h4 {
+  border: 1px double darkgreen;
+  padding: 10px;
+    background-color: khaki;
+}
+
+ul {
+   background-color: yellowgreen;
+   border: 4px double darkgreen;
+   padding-top: 10px;
+   padding-bottom: 10px;
+    
+}
+
+li  {
+    border: none;
+    padding: 2px;
+}
+
+ol {
+        background-color: yellowgreen;
+        border: 4px double darkgreen;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+.olive.center {
+    background-color: olive;
+}
+
+
+
+.button {
+    
+    background-color:  khaki;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: 300px;
+    border: 2px double darkgreen;
+    margin-top: 4px;
+    margin-bottom: 4px;
+
+}
+
+a {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    border: 0px;
+    display: block;
+    
+
+
+    
+
+}
+
+
+    
+
+
+    
+
